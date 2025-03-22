@@ -74,7 +74,6 @@ const profile = {
 
 ### [Centralized Error Handling System](https://github.com/riyons/centralized-error-handling-react)
 ![](https://img.shields.io/badge/Tech-React-informational?style=flat&logo=react&logoColor=white&color=3498db)
-![](https://img.shields.io/badge/Tech-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=3498db)
 
 This repository contains the source code for my tutorial on building a centralized error-handling system in React using Axios, custom hooks (useApi), and service modules. The goal is to simplify error management, improve maintainability, and provide a seamless user experience.
 
@@ -141,10 +140,11 @@ A reusable multi-step form component implemented using React Context API and Hoo
 
 I'm currently enhancing my skills in:
 
+- Scalable Full Stack Development
+- Machine Learning (ML)
 - Natural Language Processing (NLP)
-- Advanced Data Visualization
-- Cloud-Native Architectures
 - Mentoring & Knowledge Sharing
+- AI-Powered Web Applications
 
 <div align="center">
   <img src="https://github.com/riyons/riyons/blob/main/assets/section-divider3.svg" alt="divider"/>
