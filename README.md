@@ -4,6 +4,7 @@
 
 ## 💡 Content & Learning
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourwebsite.com)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@DeveloperInsights-e9)
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/riyon_sebastian)
 [![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/user/riyon-sebastian-2/)
@@ -58,9 +59,47 @@ const profile = {
 ![MongoDB](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
 
 ### Tools & Platforms
-![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)
 ![Pandas](https://img.shields.io/badge/Tools-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=2bbc8a)
+
+## 🚀 Featured Projects
+
+### [Centralized Error Handling System](https://github.com/riyons/centralized-error-handling-react)
+![](https://img.shields.io/badge/Tech-React-informational?style=flat&logo=react&logoColor=white&color=3498db)
+![](https://img.shields.io/badge/Tech-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=3498db)
+
+This repository contains the source code for my tutorial on building a centralized error-handling system in React using Axios, custom hooks (useApi), and service modules. The goal is to simplify error management, improve maintainability, and provide a seamless user experience.
+
+✅ Centralized Axios Instance: Avoid repetitive configuration and simplify API requests  
+✅ Global Error Management: Handle all errors consistently using Axios interceptors  
+✅ Reusable Service Modules: Keep API logic modular and organized  
+✅ Custom useApi Hook: Simplify state management for API calls (data, loading, error)  
+✅ Scalable Architecture: A solid foundation for adding advanced features in the future  
+
+### [Next.js Centralized Error Handler](https://github.com/riyons/nextjs-centralized-error-handler)
+![](https://img.shields.io/badge/Tech-Next.js-informational?style=flat&logo=next.js&logoColor=white&color=3498db)
+![](https://img.shields.io/badge/Tech-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=3498db)
+![](https://img.shields.io/badge/npm-package-informational?style=flat&logo=npm&logoColor=white&color=3498db)
+
+A comprehensive, secure error-handling package designed specifically for Next.js applications that enables fine-grained, route-level error handling with custom error classes.
+
+✅ Centralized Error Handling: Higher-order function for consistent error management  
+✅ Custom Error Classes: Predefined classes like BadRequestError and UnauthorizedError  
+✅ Enhanced Security: Prevents sensitive information leakage in error responses  
+✅ Frontend-Compatible: Structured JSON responses for easy integration  
+✅ App Router Support: Works with both traditional API routes and Next.js 13 App Router  
+
+### [React Reusable Multistep Form](https://github.com/riyons/react-context-multistep-form)
+![](https://img.shields.io/badge/Tech-React-informational?style=flat&logo=react&logoColor=white&color=3498db)
+![](https://img.shields.io/badge/Tech-Context_API-informational?style=flat&logo=react&logoColor=white&color=3498db)
+![](https://img.shields.io/badge/Tech-Hooks-informational?style=flat&logo=react&logoColor=white&color=3498db)
+
+A reusable multi-step form component implemented using React Context API and Hooks, designed to prevent unsaved changes from being lost during navigation between form steps.
+
+✅ Context API State Management: Share state between components without prop drilling  
+✅ Reusable Component Architecture: Call from anywhere in your React project  
+✅ Dynamic Progress Bar: Customizable UI for tracking form completion  
+✅ Navigation Control: Enable/disable navigation buttons from child components  
+✅ Functional Components: Modern React patterns with Hooks and Context API  
 
 ---
 
@@ -72,20 +111,6 @@ const profile = {
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=riyons&show_icons=true&theme=radical&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyons&layout=compact&theme=radical" />
 </div>
-
-## 🚀 Featured Projects
-
-### [Centralized Error Handling System](https://github.com/riyons/centralized-error-handling-react)
-![](https://img.shields.io/badge/Tech-React-informational?style=flat&logo=react&logoColor=white&color=3498db)
-![](https://img.shields.io/badge/Tech-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=3498db)
-
-This repository contains the source code for my tutorial on building a centralized error-handling system in React using Axios, custom hooks (useApi), and service modules. The goal is to simplify error management, improve maintainability, and provide a seamless user experience.
-
-✅ Centralized Axios Instance: Avoid repetitive configuration and simplify API requests.
-✅ Global Error Management: Handle all errors consistently using Axios interceptors.
-✅ Reusable Service Modules: Keep API logic modular and organized.
-✅ Custom useApi Hook: Simplify state management for API calls (data, loading, error).
-✅ Scalable Architecture: A solid foundation for adding advanced features in the future.
 
 ## 📝 Latest Articles & Resources
 
