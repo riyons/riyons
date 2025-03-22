@@ -1,6 +1,6 @@
 ![Header](https://github.com/riyons/riyons/blob/main/assets/github-header-image.svg)
 
-# Hey there, I'm Riyon Sebastian 👋 | Lead Software Engineer & Mentor
+## Hey there, I'm Riyon Sebastian 👋 | Lead Software Engineer & Mentor
 ### Passionate about building **scalable applications**, and **empowering developers**!
 
 <div align="center">
