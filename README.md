@@ -20,11 +20,21 @@ I'm passionate about empowering developers through knowledge sharing. My technic
 
 Beyond development, I'm deeply interested in data analytics (certified by Google), Natural Language Processing, and Optical Character Recognition. Recognized as "Employee of the Year" for two consecutive years, I'm dedicated to mentoring teams and fostering a culture of growth and collaboration.
 
-### My Programming Journey 🚀
+### My Programming Journey 🚀  
 
-At 11 years old, my life took an unexpected turn. Family circumstances kept me out of school for a year, leaving me feeling isolated and uncertain about the future. In the midst of that challenging time, my father handed me a Visual Basic programming book—an unassuming gift that would change my life.
+At 10 years old, my education took a one-year pause due to family circumstances, leaving me feeling isolated and uncertain about the future. During that time, my father noticed my curiosity about computers. Even though money was tight, he somehow managed to buy me a Visual Basic programming book—an unassuming gift that would change my life.  
 
-What began as a way to fill empty days quickly became a passion. As I wrote my first lines of code, I discovered a world where I could create, solve problems, and push boundaries. That passion never faded. From those early days of self-learning to where I stand today, programming has been more than just a career—it's been my calling. Now, I get to live that childhood dream, building innovative software solutions that bring ideas to life.
+What started as a way to fill empty days quickly became a passion. As I wrote my first lines of code, I discovered a world where I could create, solve problems, and push boundaries. That passion never faded. From those early days of self-learning to where I stand today, programming has been more than just a career—it's my calling.  
+
+Even after 20+ years, I still keep that book with me like a treasure—a reminder of where it all began.  
+
+<div align="center">
+  <img src="https://github.com/riyons/riyons/blob/main/assets/vb-book.jpeg" width="400">
+</div>  
+
+*This is the very book that started my programming journey over 20 years ago. Written in Malayalam, it was a gift from my father, who made sacrifices to buy it for me. To this day, I treasure it as a reminder of where it all began.*  
+
+Now, I get to live that childhood dream, building innovative software solutions that bring ideas to life.  
 
 <div align="center">
   <img src="https://github.com/riyons/riyons/blob/main/assets/section-divider2.svg" alt="divider"/>
