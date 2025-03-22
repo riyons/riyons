@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300">
+  <!-- Background gradient -->
+  <defs>
+    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#3a7bd5;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#3a6073;stop-opacity:1" />
+    </linearGradient>
+    <style>
+      @keyframes fadeIn {
+        from { opacity: 0; }
+        to { opacity: 1; }
+      }
+      .animated-text {
+        animation: fadeIn 1.5s ease-in-out;
+      }
+      .code-icon {
+        animation: fadeIn 2s ease-in-out;
+      }
+    </style>
+  </defs>
+  
+  <!-- Main background -->
+  <rect width="1200" height="300" fill="url(#headerGradient)" />
+  
+  <!-- Abstract code pattern -->
+  <g opacity="0.15" fill="white">
+    <text x="20" y="40" font-family="monospace" font-size="12">&lt;header&gt;</text>
+    <text x="30" y="60" font-family="monospace" font-size="12">const profile = {</text>
+    <text x="40" y="80" font-family="monospace" font-size="12">name: "Riyon Sebastian",</text>
+    <text x="40" y="100" font-family="monospace" font-size="12">passions: ["Coding", "Teaching", "Problem Solving"],</text>
+    <text x="40" y="120" font-family="monospace" font-size="12">experience: "Lead Software Engineer"</text>
+    <text x="30" y="140" font-family="monospace" font-size="12">};</text>
+    <text x="20" y="160" font-family="monospace" font-size="12">&lt;/header&gt;</text>
+    
+    <text x="900" y="200" font-family="monospace" font-size="12">function createSolutions() {</text>
+    <text x="910" y="220" font-family="monospace" font-size="12">return "Innovative Solutions";</text>
+    <text x="900" y="240" font-family="monospace" font-size="12">}</text>
+  </g>
+  
+  <!-- Main text content -->
+  <g class="animated-text">
+    <!-- Name in prominent position -->
+    <text x="600" y="100" font-family="Arial, sans-serif" font-size="48" font-weight="bold" fill="white" text-anchor="middle">Riyon Sebastian</text>
+    <text x="600" y="150" font-family="Arial, sans-serif" font-size="30" font-weight="bold" fill="white" text-anchor="middle">Lead Software Engineer</text>
+    <text x="600" y="190" font-family="Arial, sans-serif" font-size="18" fill="white" text-anchor="middle">Building innovative solutions | Sharing knowledge | Empowering developers</text>
+  </g>
+  
+  <!-- Code icon as a symbol -->
+  <g class="code-icon" transform="translate(950, 70)">
+    <circle cx="50" cy="50" r="40" fill="#ffffff" opacity="0.9" />
+    <path d="M40,35 L25,50 L40,65" stroke="#3a7bd5" stroke-width="4" fill="none" />
+    <path d="M60,35 L75,50 L60,65" stroke="#3a7bd5" stroke-width="4" fill="none" />
+    <path d="M45,75 L55,25" stroke="#3a7bd5" stroke-width="4" fill="none" />
+  </g>
+  
+  <!-- Bottom decorative line -->
+  <path d="M0,280 Q300,250 600,280 T1200,280" stroke="white" fill="none" stroke-width="2" opacity="0.3" />
+</svg>
