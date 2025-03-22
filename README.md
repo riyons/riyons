@@ -329,17 +329,17 @@ const profile = {
 </div>
 
 <div align="left">
-  <img src="https://img.shields.io/badge/🤝%20OPEN%20TO-COLLABORATION-3a7bd5?style=for-the-badge" alt="Open to Collaboration" />
+  <img src="https://img.shields.io/badge/🤝%20OPEN%20SOURCE-CONTRIBUTIONS-3a7bd5?style=for-the-badge" alt="Open Source" />
 </div>
 
 <div align="center">
-  I'm always excited to connect with <strong>like-minded developers</strong> on:
+  In my free time outside of my role as a Lead Software Engineer, I'm passionate about giving back to the developer community through:
   <ul style="list-style-type: none; padding: 0;">
-    <li>🔹 Open-source contributions</li>
-    <li>🔹 AI-powered applications</li>
-    <li>🔹 Scalable software architectures</li>
+    <li>🔹 Open-source projects and contributions</li>
+    <li>🔹 Knowledge sharing and free educational content</li>
+    <li>🔹 Community mentorship</li>
   </ul>
-  If you're working on something cool, let's build together! 🚀
+  I believe in giving back to the community that has helped me grow as a developer!
 </div>
 
 <div align="center">
