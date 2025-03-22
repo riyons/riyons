@@ -217,7 +217,7 @@ const profile = {
           <img src="https://img.shields.io/badge/Tech-Hooks-informational?style=flat&logo=react&logoColor=white&color=3498db"/>
         </p>
         <p align="center">A reusable multi-step form component implemented using React Context API and Hooks, designed to prevent unsaved changes from being lost during navigation between form steps.</p>
-        <p align="center"><strong>Why It Matters:</strong> Eliminates a common UX frustration by <strong>preserving user data between form steps</strong>, significantly improving form completion rates and user satisfaction.</p>
+        <p align="center"><strong>Why It Matters:</strong> Eliminates a common UX frustration by <strong>preventing data loss between form steps</strong>, significantly improving form completion rates and user satisfaction.</p>
         <div align="center">
           <table border="0" style="width: 80%">
             <tr>
