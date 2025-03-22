@@ -1,4 +1,4 @@
-![Header](https://github.com/riyons/riyons/blob/main/github-header-image.png)
+![Header](https://github.com/riyons/riyons/blob/main/assets/github-header-image.svg)
 
 # Hey there, I'm Riyon Sebastian 👋 | Lead Software Engineer & Mentor
 
