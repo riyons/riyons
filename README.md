@@ -50,25 +50,37 @@ const profile = {
 }
 ```
 
-## 🛠️ Technologies & Tools
+## 🛠️ Technologies & Tools  
 
-### Languages
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![PHP](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
+### Languages  
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)  
+![PHP](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)  
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 
-### Frontend
-![React](https://img.shields.io/badge/Frontend-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+### Frontend  
+![React](https://img.shields.io/badge/Frontend-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)  
+![Next.js](https://img.shields.io/badge/Frontend-Next.js-informational?style=flat&logo=next.js&logoColor=white&color=2bbc8a)  
 
-### Backend
-![Node.js](https://img.shields.io/badge/Backend-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
-![Express](https://img.shields.io/badge/Backend-Express-informational?style=flat&logo=express&logoColor=white&color=2bbc8a)
+### Backend  
+![Node.js](https://img.shields.io/badge/Backend-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)  
+![Express](https://img.shields.io/badge/Backend-Express-informational?style=flat&logo=express&logoColor=white&color=2bbc8a)  
 
-### Databases
-![MongoDB](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
+### Databases  
+![MongoDB](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)  
+![MySQL](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 
-### Tools & Platforms
-![Pandas](https://img.shields.io/badge/Tools-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=2bbc8a)
+### AI & LLMs  
+![Prompt Engineering](https://img.shields.io/badge/AI-Prompt_Engineering-informational?style=flat&logo=openai&logoColor=white&color=2bbc8a)  
+![Ollama](https://img.shields.io/badge/AI-Ollama-informational?style=flat&logo=ai&logoColor=white&color=2bbc8a)
+
+### Data Science & Machine Learning
+![Pandas](https://img.shields.io/badge/Tools-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=2bbc8a)  
+![Scikit-learn](https://img.shields.io/badge/ML-Scikit_Learn-informational?style=flat&logo=scikitlearn&logoColor=white&color=2bbc8a)  
+
+### DevOps & CI/CD  
+![GitHub Actions](https://img.shields.io/badge/DevOps-GitHub_Actions-informational?style=flat&logo=githubactions&logoColor=white&color=2bbc8a)  
+![GitLab CI/CD](https://img.shields.io/badge/DevOps-GitLab_CI/CD-informational?style=flat&logo=gitlab&logoColor=white&color=2bbc8a)  
+![Jenkins](https://img.shields.io/badge/DevOps-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=2bbc8a)  
 
 ## 🚀 Featured Projects
 
