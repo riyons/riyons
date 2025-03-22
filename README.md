@@ -49,15 +49,15 @@ From a **curious kid writing Visual Basic at 10** to a **Lead Software Engineer 
   <table border="0" cellspacing="0" cellpadding="0">
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/2003-Visual%20Basic-blue?style=for-the-badge"/>
+        <img src="https://img.shields.io/badge/2005-Visual%20Basic-blue?style=for-the-badge"/>
         <p>First code at age 10</p>
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/2010-Web%20Development-purple?style=for-the-badge"/>
+        <img src="https://img.shields.io/badge/2016-Web%20Development-purple?style=for-the-badge"/>
         <p>Professional career</p>
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/2015-Full%20Stack-green?style=for-the-badge"/>
+        <img src="https://img.shields.io/badge/2017-Full%20Stack-green?style=for-the-badge"/>
         <p>MERN stack expertise</p>
       </td>
       <td align="center">
