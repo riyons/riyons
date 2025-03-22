@@ -49,7 +49,7 @@ From a **curious kid writing Visual Basic at 10** to a **Lead Software Engineer 
   <table border="0" cellspacing="0" cellpadding="0">
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/2005-Visual%20Basic-blue?style=for-the-badge"/>
+        <img src="https://img.shields.io/badge/2004-Visual%20Basic-blue?style=for-the-badge"/>
         <p>First code at age 10</p>
       </td>
       <td align="center">
