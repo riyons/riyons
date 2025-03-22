@@ -42,11 +42,11 @@ Now, I get to live that childhood dream, building innovative software solutions 
 
 ```javascript
 const profile = {
-  currentFocus: "Full-Stack Development & Data Analytics",
-  lookingFor: "Innovative projects with positive impact",
-  learning: ["NLP", "Advanced Data Visualization", "Cloud Architecture"],
-  askMeAbout: ["React", "Error Handling", "Scalable Architecture", "Data Analytics"],
-  funFact: "I wrote my first line of code at 11 years old in Visual Basic"
+  currentFocus: "Scalable Full-Stack Development & AI-Powered Applications",
+  lookingFor: "Innovative projects with real-world impact",
+  learning: ["Machine Learning", "Natural Language Processing", "Cloud-Native Development"],
+  askMeAbout: ["React", "Node.js", "Error Handling", "Scalable Architecture", "AI Integration"],
+  funFact: "I wrote my first line of code at 10 years old in Visual Basic—and I still have the book!"
 }
 ```
 
