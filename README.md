@@ -253,16 +253,19 @@ const profile = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riyons&theme=tokyonight&background=0D1117&ring=3a7bd5&fire=3a7bd5&currStreakLabel=3a7bd5&border=3a7bd5" alt="GitHub streak stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api?username=riyons&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=3a7bd5&icon_color=3a7bd5&text_color=FFFFFF&border_color=3a7bd5&count_private=true" alt="GitHub stats" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyons&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=3a7bd5&text_color=FFFFFF&border_color=3a7bd5" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyons&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=3a7bd5&text_color=FFFFFF&border_color=3a7bd5" width="48%" />
 </div>
 
 <div align="left">
   <img src="https://img.shields.io/badge/📝%20LATEST-ARTICLES-3a7bd5?style=for-the-badge" alt="Latest Articles" />
+</div>
+
+<div align="center">
+  ✍️ <i>I write about software architecture, scalable systems, and advanced development concepts. Check out my latest posts on Dev.to:</i>
 </div>
 
 <!-- BLOG-POST-LIST:START -->
@@ -355,7 +358,7 @@ const profile = {
 
 <div align="center">
   <a href="https://www.linkedin.com/in/riyon-sebastian/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="mailto:riyonsebastian@gmail.com"><p>Email: riyonsebastian@gmail.com</p></a>
+  <a href="mailto:riyonsebastian@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> riyonsebastian@gmail.com
 </div>
 
 ---
