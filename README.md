@@ -10,7 +10,7 @@
 [![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/user/yourprofile/)
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/riyons/riyons/main/assets/divider1.svg" alt="divider"/>
+  <img src="https://github.com/riyons/riyons/blob/main/assets/section-divider1.svg" alt="divider"/>
 </div>
 
 ## About Me
@@ -28,7 +28,7 @@ At 11 years old, my life took an unexpected turn. Family circumstances kept me o
 What began as a way to fill empty days quickly became a passion. As I wrote my first lines of code, I discovered a world where I could create, solve problems, and push boundaries. That passion never faded. From those early days of self-learning to where I stand today, programming has been more than just a career—it's been my calling. Now, I get to live that childhood dream, building innovative software solutions that bring ideas to life.
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/riyons/riyons/main/assets/divider2.svg" alt="divider"/>
+  <img src="https://github.com/riyons/riyons/blob/main/assets/section-divider2.svg" alt="divider"/>
 </div>
 
 ```javascript
@@ -101,7 +101,7 @@ This repository contains the source code for my tutorial on building a centraliz
 - [Developer Insights YouTube Channel](https://www.youtube.com/@DeveloperInsights-e9)
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/riyons/riyons/main/assets/divider4.svg" alt="divider"/>
+  <img src="https://github.com/riyons/riyons/blob/main/assets/section-divider4.svg" alt="divider"/>
 </div>
 
 ## 🌱 Current Focus Areas
@@ -114,7 +114,7 @@ I'm currently enhancing my skills in:
 - Mentoring & Knowledge Sharing
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/riyons/riyons/main/assets/divider3.svg" alt="divider"/>
+  <img src="https://github.com/riyons/riyons/blob/main/assets/section-divider3.svg" alt="divider"/>
 </div>
 
 ## 📫 Get in Touch
