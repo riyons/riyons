@@ -169,7 +169,7 @@ const profile = {
       <td width="50%" align="center">
         <h3 align="center">Centralized Error Handling System</h3>
         <a href="https://github.com/riyons/centralized-error-handling-react" target="_blank">
-          <img src="https://blog.openreplay.com/images/implementing-an-error-boundary-in-react/images/hero.png" width="100%" alt="Centralized Error Handling"/>
+          <img src="https://github.com/riyons/riyons/blob/main/assets/centralized-error-handling.svg" width="100%" alt="Centralized Error Handling"/>
         </a>
         <p align="center">
           <img src="https://img.shields.io/badge/Tech-React-informational?style=flat&logo=react&logoColor=white&color=3498db"/>
@@ -187,7 +187,7 @@ const profile = {
       <td width="50%" align="center">
         <h3 align="center">Next.js Centralized Error Handler</h3>
         <a href="https://github.com/riyons/nextjs-centralized-error-handler" target="_blank">
-          <img src="https://miro.medium.com/v2/resize:fit:1400/1*Kj5Q1Z-p0GCMGFnS7Jt_Ag.jpeg" width="100%" alt="Next.js Error Handler"/>
+          <img src="https://github.com/riyons/riyons/blob/main/assets/nextjs-error-handler.svg" width="100%" alt="Next.js Error Handler"/>
         </a>
         <p align="center">
           <img src="https://img.shields.io/badge/Tech-Next.js-informational?style=flat&logo=next.js&logoColor=white&color=3498db"/>
@@ -209,7 +209,7 @@ const profile = {
       <td colspan="2" align="center">
         <h3 align="center">React Reusable Multistep Form</h3>
         <a href="https://github.com/riyons/react-multistep-form-using-context-api" target="_blank">
-          <img src="https://miro.medium.com/v2/resize:fit:1400/1*zMjuBFS_NlFnyNSU9idxVw.jpeg" width="70%" alt="React Multistep Form"/>
+          <img src="https://github.com/riyons/riyons/blob/main/assets/multistep-form.svg" width="70%" alt="React Multistep Form"/>
         </a>
         <p align="center">
           <img src="https://img.shields.io/badge/Tech-React-informational?style=flat&logo=react&logoColor=white&color=3498db"/>
@@ -299,23 +299,23 @@ const profile = {
   <table border="0">
     <tr>
       <td align="center" width="20%">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Full Stack" width="80"/>
+        <img src="https://cdn-icons-png.flaticon.com/512/5266/5266248.png" alt="Full Stack" width="80"/>
         <p><strong>Scalable Full Stack Development</strong></p>
       </td>
       <td align="center" width="20%">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" alt="Machine Learning" width="80"/>
+        <img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" alt="Machine Learning" width="80"/>
         <p><strong>Machine Learning (ML)</strong></p>
       </td>
       <td align="center" width="20%">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Speech%20Balloon.png" alt="NLP" width="80"/>
+        <img src="https://cdn-icons-png.flaticon.com/512/2665/2665038.png" alt="NLP" width="80"/>
         <p><strong>Natural Language Processing (NLP)</strong></p>
       </td>
       <td align="center" width="20%">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Teacher.png" alt="Mentoring" width="80"/>
+        <img src="https://cdn-icons-png.flaticon.com/512/1995/1995539.png" alt="Mentoring" width="80"/>
         <p><strong>Mentoring & Knowledge Sharing</strong></p>
       </td>
       <td align="center" width="20%">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" alt="AI" width="80"/>
+        <img src="https://cdn-icons-png.flaticon.com/512/4616/4616734.png" alt="AI" width="80"/>
         <p><strong>AI-Powered Web Applications</strong></p>
       </td>
     </tr>
