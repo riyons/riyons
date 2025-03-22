@@ -332,10 +332,6 @@ const profile = {
   <img src="https://img.shields.io/badge/🤝%20OPEN%20SOURCE-CONTRIBUTIONS-3a7bd5?style=for-the-badge" alt="Open Source" />
 </div>
 
-<div align="left">
-  <img src="https://img.shields.io/badge/🤝%20OPEN%20SOURCE-CONTRIBUTIONS-3a7bd5?style=for-the-badge" alt="Open Source" />
-</div>
-
 <div align="center">
   In my free time outside of my role as a Lead Software Engineer, I'm passionate about giving back to the developer community through:
   <br><br>
@@ -345,7 +341,7 @@ const profile = {
   🔹 Knowledge sharing and free educational content
   
   🔹 Community mentorship
-  <br>
+  <br><br>
   I believe in giving back to the community that has helped me grow as a developer!
 </div>
 
