@@ -360,10 +360,9 @@ const profile = {
 ## ✨ Final Thought  
 <div align="center">
   <blockquote>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Victory%20Hand.png" width="30" />
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="30" />
     <strong>"Programming isn't about what you know; it's about what you can figure out."</strong>  
     <br>— Chris Pine  
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Victory%20Hand.png" width="30" />
   </blockquote>
 </div>
 
