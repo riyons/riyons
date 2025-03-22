@@ -334,10 +334,12 @@ const profile = {
 
 <div align="center">
   In my free time outside of my role as a Lead Software Engineer, I'm passionate about giving back to the developer community through:
-  
-  🔹 Open-source projects and contributions
-  🔹 Knowledge sharing and free educational content
-  🔹 Community mentorship
+
+  <table border="0" align="center">
+    <tr><td>🔹 Open-source projects and contributions</td></tr>
+    <tr><td>🔹 Knowledge sharing and free educational content</td></tr>
+    <tr><td>🔹 Community mentorship</td></tr>
+  </table>
   
   I believe in giving back to the community that has helped me grow as a developer!
 </div>
