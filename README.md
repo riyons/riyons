@@ -41,50 +41,6 @@ Beyond development, I'm deeply interested in data analytics (certified by Google
   <img src="https://img.shields.io/badge/🚀%20MY-JOURNEY-3a7bd5?style=for-the-badge" alt="My Journey" />
 </div>
 
-### My Programming Journey 🚀
-
-From a **curious kid writing Visual Basic at 10** to a **Lead Software Engineer building AI-powered applications**, my journey has been fueled by a love for **problem-solving and innovation**. Here's a snapshot of my path so far:
-
-<div align="center">
-  <table border="0" cellspacing="0" cellpadding="0">
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/2004-Visual%20Basic-blue?style=for-the-badge"/>
-        <p>First code at age 10</p>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/2016-Web%20Development-purple?style=for-the-badge"/>
-        <p>Professional career</p>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/2017-Full%20Stack-green?style=for-the-badge"/>
-        <p>MERN stack expertise</p>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/2023-AI%20%26%20ML-red?style=for-the-badge"/>
-        <p>New frontiers</p>
-      </td>
-    </tr>
-  </table>
-</div>
-
-At 10 years old, my education took a one-year pause due to family circumstances, leaving me feeling isolated and uncertain about the future. During that time, my father noticed my curiosity about computers. Even though money was tight, he somehow managed to buy me a Visual Basic programming book—an unassuming gift that would change my life.  
-
-What started as a way to fill empty days quickly became a passion. As I wrote my first lines of code, I discovered a world where I could create, solve problems, and push boundaries. That passion never faded. From those early days of self-learning to where I stand today, programming has been more than just a career—it's my calling.  
-
-Even after 20+ years, I still keep that book with me like a treasure—a reminder of where it all began.  
-
-<div align="center">
-  <img src="https://github.com/riyons/riyons/blob/main/assets/vb-book.jpeg" width="400">
-  <p><i>This is the very book that started my programming journey over 20 years ago. Written in Malayalam, it was a gift from my father, who made sacrifices to buy it for me. To this day, I treasure it as a reminder of where it all began.</i></p>
-</div>  
-
-Now, I get to live that childhood dream, building innovative software solutions that bring ideas to life.  
-
-<div align="center">
-  <img src="https://github.com/riyons/riyons/blob/main/assets/section-divider2.svg" alt="divider"/>
-</div>
-
 ```javascript
 const profile = {
   currentFocus: "Scalable Full-Stack Development & AI-Powered Applications",
